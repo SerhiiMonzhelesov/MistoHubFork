@@ -93,7 +93,6 @@ const HomePage = () => {
       window.removeEventListener('scroll', handleScroll);
     };
   }, []);
-
   return (
     <>
       <Header />
